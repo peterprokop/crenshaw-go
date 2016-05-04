@@ -1,5 +1,7 @@
 # crenshaw-go
 
+**Original article**: http://squanch.org/writing-a-compiler-in-go/
+
 A go implementation of [Let's Build a Compiler, by Jack Crenshaw](http://compilers.iecc.com/crenshaw/)
 
 How to run:
